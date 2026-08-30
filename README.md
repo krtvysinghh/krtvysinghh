@@ -27,77 +27,32 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,swift,apple,python,ts,js,postgres,redis,docker,aws,git,bash,neovim,vscode&perline=16" alt="Tech Stack" />
-  </a>
+
+  <h3>🛠️ Tech Stack</h3>
+
+  <!-- Perfectly Aligned HD Icons Grid -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rust,c,cpp,swift,apple,python,ts,js&perline=8" alt="Languages" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,git,bash,neovim,vscode&perline=8" alt="Tools" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-### 📊 GitHub Activity & Streak
-
 <div align="center">
+
+  <h3>📊 GitHub Activity & Streak</h3>
+  <br/>
+
   <a href="https://github.com/krtvysinghh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&stroke=0EA5E9&background=0A0F1D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=8" alt="GitHub Streak" width="520" />
   </a>
-</div>
-
----
-
-<div align="center">
-
-  <h3>🌐 Connect With Me</h3>
-  <br/>
-
-  <!-- Apple-Style Rounded Icons with Cursive Names -->
-  <table border="0" align="center" cellspacing="12" cellpadding="4">
-    <tr align="center">
-      <td align="center">
-        <a href="https://github.com/krtvysinghh" target="_blank">
-          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        </a>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=E2E8F0&center=true&vCenter=true&width=80&lines=GitHub" alt="GitHub" />
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/krtvysinghh" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-        </a>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=0A66C2&center=true&vCenter=true&width=80&lines=LinkedIn" alt="LinkedIn" />
-      </td>
-      <td align="center">
-        <a href="https://x.com/krtvysinghh" target="_blank">
-          <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X / Twitter" />
-        </a>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=E2E8F0&center=true&vCenter=true&width=80&lines=Twitter" alt="Twitter" />
-      </td>
-      <td align="center">
-        <a href="https://instagram.com/krtvysinghh" target="_blank">
-          <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
-        </a>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=E4405F&center=true&vCenter=true&width=90&lines=Instagram" alt="Instagram" />
-      </td>
-      <td align="center">
-        <a href="https://discord.com/users/krtvysinghh" target="_blank">
-          <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
-        </a>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=5865F2&center=true&vCenter=true&width=80&lines=Discord" alt="Discord" />
-      </td>
-      <td align="center">
-        <a href="mailto:kartxvyaa@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-        </a>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=EA4335&center=true&vCenter=true&width=80&lines=Gmail" alt="Gmail" />
-      </td>
-    </tr>
-  </table>
 
 </div>
