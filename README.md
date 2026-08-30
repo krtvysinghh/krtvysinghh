@@ -55,4 +55,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&stroke=0EA5E9&background=0A0F1D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=8" alt="GitHub Streak" width="520" />
   </a>
 
+  <br/><br/>
+
+  <!-- Buy Me A Coffee -->
+  <a href="https://buymeacoffee.com/krtvysinghh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" style="border-radius: 8px;" />
+  </a>
+
 </div>
