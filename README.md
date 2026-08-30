@@ -1,8 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=030712,0f172a,1e293b,0284c7,38bdf8&height=120&section=header&text=Kartavya%20Singh&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Systems%20%26%20Software%20Engineer&descFontSize=15&descColor=94a3b8&descAlignY=72" width="100%" alt="Header" />
+  <h1>Kartavya Singh</h1>
+  <p><b>Systems & Software Engineer</b></p>
 
-  <!-- Big Cursive Static Tagline: Eat • Code • Repeat -->
+  <!-- Big Cursive Static Tagline -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=34&pause=100000&color=38BDF8&center=true&vCenter=true&width=450&lines=Eat+%E2%80%A2+Code+%E2%80%A2+Repeat" alt="Eat Code Repeat" />
   </p>
@@ -42,8 +43,6 @@
   <a href="https://github.com/krtvysinghh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&stroke=0EA5E9&background=0A0F1D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=8" alt="GitHub Streak" width="520" />
   </a>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krtvysinghh&bg_color=0A0F1D&color=38BDF8&line=0EA5E9&point=E2E8F0&area=true&hide_border=false&border_color=1E293B&border_radius=8" width="850" alt="Activity Graph" />
 </div>
 
 ---
@@ -51,39 +50,54 @@
 <div align="center">
 
   <h3>🌐 Connect With Me</h3>
+  <br/>
 
-  <p align="center">
-    <a href="https://github.com/krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://x.com/krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    &nbsp;
-    <a href="https://youtube.com/@krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    &nbsp;
-    <a href="https://t.me/krtvysinghh" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    &nbsp;
-    <a href="mailto:kartxvyaa@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+  <!-- Apple-Style Rounded Icons with Cursive Names -->
+  <table border="0" align="center" cellspacing="12" cellpadding="4">
+    <tr align="center">
+      <td align="center">
+        <a href="https://github.com/krtvysinghh" target="_blank">
+          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        </a>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=E2E8F0&center=true&vCenter=true&width=80&lines=GitHub" alt="GitHub" />
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/krtvysinghh" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+        </a>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=0A66C2&center=true&vCenter=true&width=80&lines=LinkedIn" alt="LinkedIn" />
+      </td>
+      <td align="center">
+        <a href="https://x.com/krtvysinghh" target="_blank">
+          <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X / Twitter" />
+        </a>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=E2E8F0&center=true&vCenter=true&width=80&lines=Twitter" alt="Twitter" />
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/krtvysinghh" target="_blank">
+          <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+        </a>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=E4405F&center=true&vCenter=true&width=90&lines=Instagram" alt="Instagram" />
+      </td>
+      <td align="center">
+        <a href="https://discord.com/users/krtvysinghh" target="_blank">
+          <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+        </a>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=5865F2&center=true&vCenter=true&width=80&lines=Discord" alt="Discord" />
+      </td>
+      <td align="center">
+        <a href="mailto:kartxvyaa@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+        </a>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=20&pause=100000&color=EA4335&center=true&vCenter=true&width=80&lines=Gmail" alt="Gmail" />
+      </td>
+    </tr>
+  </table>
 
 </div>
