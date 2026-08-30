@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://github.com/krtvysinghh?tab=followers"><img src="https://img.shields.io/github/followers/krtvysinghh?label=Followers&logo=github&style=flat-square&color=0284C7&labelColor=0F172A&logoColor=F8FAFC" alt="Followers" /></a>
     <a href="https://github.com/krtvysinghh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7%20Public-0284C7?style=flat-square&logo=git&labelColor=0F172A&logoColor=F8FAFC" alt="Repos" /></a>
-    <a href="https://komarev.com/ghpvc/?username=krtvysinghh&style=flat-square&color=0284c7&label=Profile+Views"><img src="https://komarev.com/ghpvc/?username=krtvysinghh&style=flat-square&color=0284c7&label=Profile Views" alt="Views" /></a>
+    <a href="https://github.com/krtvysinghh?tab=stars"><img src="https://img.shields.io/badge/Stars-23%20Earned-0284C7?style=flat-square&logo=apachespark&labelColor=0F172A&logoColor=F8FAFC" alt="Stars" /></a>
   </p>
 
 </div>
