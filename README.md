@@ -122,9 +122,3 @@
   </p>
 
 </div>
-
----
-
-<div align="center">
-  <sub>Crafted with precision • Open-source advocate • Let's build something remarkable</sub>
-</div>
