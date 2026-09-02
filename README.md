@@ -106,19 +106,29 @@
   <h3>📊 Engineering Activity & Contribution Metrics</h3>
   <br/>
 
-  <p align="center">
-    <a href="https://github.com/krtvysinghh">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krtvysinghh&show_icons=true&theme=tokyonight&bg_color=0A0F1D&border_color=0EA5E9&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_radius=12" alt="GitHub Overview Stats" width="49%" />
-    </a>
-    <a href="https://github.com/krtvysinghh">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krtvysinghh&layout=compact&theme=tokyonight&bg_color=0A0F1D&border_color=0EA5E9&title_color=38BDF8&text_color=E2E8F0&border_radius=12" alt="Top Languages" width="45%" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/krtvysinghh">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&stroke=0EA5E9&background=0A0F1D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=12" alt="GitHub Streak" width="95%" />
-    </a>
-  </p>
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr align="center">
+      <td valign="middle">
+        <a href="https://github.com/krtvysinghh">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krtvysinghh&show_icons=true&theme=tokyonight&bg_color=0B0F19&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_radius=12" width="415" alt="GitHub Overview Stats" />
+        </a>
+      </td>
+      <td width="16"></td>
+      <td valign="middle">
+        <a href="https://github.com/krtvysinghh">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&background=0B0F19&border=1E293B&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=12" width="415" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr><td height="16" colspan="3"></td></tr>
+    <tr align="center">
+      <td colspan="3" valign="middle">
+        <a href="https://github.com/krtvysinghh">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krtvysinghh&layout=compact&card_width=445&theme=tokyonight&bg_color=0B0F19&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&border_radius=12" width="415" alt="Top Programming Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
