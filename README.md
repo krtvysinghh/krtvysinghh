@@ -4,7 +4,7 @@
   <p><b>Systems Architect • Mobile & Native Software Engineer</b></p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+high-performance+systems+%26+native+apps;Rust+%E2%80%A2+Swift+%E2%80%A2+Kotlin+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;Architecting+privacy-first+software+solutions" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+high-performance+systems+%26+native+apps;Rust+%E2%80%A2+Swift+%E2%80%A2+Kotlin+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript;Architecting+privacy-first+software+solutions" alt="Typing Tagline" />
   </p>
 
   <p align="center">
@@ -108,10 +108,15 @@
 
   <p align="center">
     <a href="https://github.com/krtvysinghh">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&stroke=0EA5E9&background=0A0F1D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=12" alt="GitHub Streak" width="49%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krtvysinghh&show_icons=true&theme=tokyonight&bg_color=0A0F1D&border_color=0EA5E9&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_radius=12" alt="GitHub Overview Stats" width="49%" />
     </a>
     <a href="https://github.com/krtvysinghh">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtvysinghh&layout=compact&theme=tokyonight&bg_color=0A0F1D&border_color=0EA5E9&title_color=38BDF8&text_color=E2E8F0&border_radius=12" alt="Top Languages" width="45%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krtvysinghh&layout=compact&theme=tokyonight&bg_color=0A0F1D&border_color=0EA5E9&title_color=38BDF8&text_color=E2E8F0&border_radius=12" alt="Top Languages" width="45%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/krtvysinghh">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtvysinghh&theme=tokyonight&stroke=0EA5E9&background=0A0F1D&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&border_radius=12" alt="GitHub Streak" width="95%" />
     </a>
   </p>
 
