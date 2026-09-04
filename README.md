@@ -23,29 +23,30 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">⌚ <a href="https://github.com/krtvysinghh/Senswear">Senswear</a></h3>
-      <p>Premium, privacy-first personal fitness & wellness companion for Android, purpose-built for the screen-free <b>Pebble Qore 2</b> band.</p>
+      <p>Universal wearable & biometric health platform for Android with Liquid Glass design system, direct BLE GATT engine (Pebble Qore 2, Polar, Garmin), Health Connect & Cloud Sync (Whoop, Garmin).</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-Compose-292524?style=flat-square&logo=kotlin&logoColor=F5F5F4" />
-        <img src="https://img.shields.io/badge/BLE-5.4-292524?style=flat-square&logo=bluetooth&logoColor=F5F5F4" />
-        <img src="https://img.shields.io/badge/Health_Connect-Android-292524?style=flat-square&logo=android&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/BLE-GATT_Central-292524?style=flat-square&logo=bluetooth&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/Health_Connect-Android_15-292524?style=flat-square&logo=android&logoColor=F5F5F4" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">✉️ <a href="https://github.com/krtvysinghh/mailops">Mailops</a></h3>
-      <p>Custom-domain email infrastructure platform built on Cloudflare Workers with inbound/outbound routing, unified inbox & Gmail/Outlook sync.</p>
+      <h3 align="left">🧠 <a href="https://github.com/krtvysinghh/Esprit">Esprit</a></h3>
+      <p>Air-gapped, local-first AI workspace & operating layer in Rust with embedded Apple Silicon Metal GPU acceleration, Tantivy search, local RAG, and macOS Omni-Agent.</p>
       <p>
-        <img src="https://img.shields.io/badge/Cloudflare-Workers-292524?style=flat-square&logo=cloudflare&logoColor=F5F5F4" />
-        <img src="https://img.shields.io/badge/TypeScript-Fullstack-292524?style=flat-square&logo=typescript&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/Rust-High_Performance-292524?style=flat-square&logo=rust&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/Metal-GPU_Accelerated-292524?style=flat-square&logo=apple&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/Local_AI-Air_Gapped-292524?style=flat-square&logoColor=F5F5F4" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🧠 <a href="https://github.com/krtvysinghh/Esprit">Esprit</a></h3>
-      <p>Modular AI and filesystem intelligence workspace engine built in Rust for project indexing, semantic search, local RAG, and agent orchestration.</p>
+      <h3 align="left">✉️ <a href="https://github.com/krtvysinghh/Mailops">Mailops</a></h3>
+      <p>Custom-domain email infrastructure platform built on Cloudflare Workers with inbound/outbound routing, unified inbox & Gmail/Outlook sync.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-High_Performance-292524?style=flat-square&logo=rust&logoColor=F5F5F4" />
-        <img src="https://img.shields.io/badge/Local_AI-Agents-292524?style=flat-square&logo=openai&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/Cloudflare-Workers-292524?style=flat-square&logo=cloudflare&logoColor=F5F5F4" />
+        <img src="https://img.shields.io/badge/TypeScript-Fullstack-292524?style=flat-square&logo=typescript&logoColor=F5F5F4" />
       </p>
     </td>
     <td width="50%" valign="top">
